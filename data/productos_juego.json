@@ -1,0 +1,1740 @@
+[
+  {
+    "id": 1,
+    "nombre": "BIG BOBBA SPRITZ",
+    "tipo": "trago",
+    "categoria": "la barra&vuelvo",
+    "ingredientes": [
+      "tanqueray",
+      "pops",
+      "jugo de limón endulzado",
+      "pink spritz ."
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "TÓMATELO CON ANDINA",
+    "tipo": "trago",
+    "categoria": "la barra&vuelvo",
+    "ingredientes": [
+      "pisco alto del carmen 35°",
+      "mango",
+      "jugo de naranja"
+    ]
+  },
+  {
+    "id": 3,
+    "nombre": "EL DESHIELO",
+    "tipo": "trago",
+    "categoria": "la barra&vuelvo",
+    "ingredientes": [
+      "smirnoff 21",
+      "jugo de naranja",
+      "enfriados con hielos de frambuesa menta",
+      "shot de frambuesa",
+      "el cual va ganando presencia a medida que pasa el tiempo."
+    ]
+  },
+  {
+    "id": 4,
+    "nombre": "EL ESCAPISTA",
+    "tipo": "trago",
+    "categoria": "la barra&vuelvo",
+    "ingredientes": [
+      "ron blanco",
+      "jugo de limón endulzado",
+      "enfriado con nuestros hielos de la casa (frambuesa-menta)",
+      "(maracuyá)",
+      "shot de frambuesa."
+    ]
+  },
+  {
+    "id": 5,
+    "nombre": "UN VIAJE POR EL SENA",
+    "tipo": "trago",
+    "categoria": "la barra&vuelvo",
+    "ingredientes": [
+      "espumante enfriado con hielo de frambuesa",
+      "menta con toques de ginger ale",
+      "shot de frambuesa",
+      "en nuestra copa b&v."
+    ]
+  },
+  {
+    "id": 6,
+    "nombre": "MARACUJACK",
+    "tipo": "trago",
+    "categoria": "la barra&vuelvo",
+    "ingredientes": [
+      "jack daniels",
+      "pulpa de maracuyá",
+      "limón endulzado",
+      "soda",
+      "menta ."
+    ]
+  },
+  {
+    "id": 7,
+    "nombre": "VIÑACOLADA",
+    "tipo": "trago",
+    "categoria": "la barra&vuelvo",
+    "ingredientes": [
+      "vino blanco endulzado jugo de piña",
+      "crema de coco",
+      "crema de leche."
+    ]
+  },
+  {
+    "id": 8,
+    "nombre": "PINK MARGARETH",
+    "tipo": "trago",
+    "categoria": "la barra&vuelvo",
+    "ingredientes": [
+      "tequila",
+      "crema de tequila fresa",
+      "hielo de frambuesa menta",
+      "limón endulzado",
+      "borde de petazeta."
+    ]
+  },
+  {
+    "id": 9,
+    "nombre": "MARGARETH MANGO",
+    "tipo": "trago",
+    "categoria": "la barra&vuelvo",
+    "ingredientes": [
+      "tequila",
+      "crema de tequila mango",
+      "jugo de limón endulzado",
+      "borde de petazeta."
+    ]
+  },
+  {
+    "id": 10,
+    "nombre": "TEQUILIÑA",
+    "tipo": "trago",
+    "categoria": "la barra&vuelvo",
+    "ingredientes": [
+      "tequila",
+      "crema de tequila mango",
+      "gajos de limón",
+      "jugo de limón endulzado."
+    ]
+  },
+  {
+    "id": 11,
+    "nombre": "¿QUÉ PASÓ AYER?",
+    "tipo": "trago",
+    "categoria": "la barra&vuelvo",
+    "ingredientes": [
+      "tanqueray",
+      "smirmoff 21",
+      "ron blanco",
+      "pisco",
+      "jugo de limón endulzado",
+      "tónica."
+    ]
+  },
+  {
+    "id": 12,
+    "nombre": "UN VERANO TEQUILA",
+    "tipo": "trago",
+    "categoria": "la barra&vuelvo",
+    "ingredientes": [
+      "tequila",
+      "jugo de limón",
+      "maracuyá",
+      "shot de frambuesa",
+      "hielo de frambuesa menta."
+    ]
+  },
+  {
+    "id": 13,
+    "nombre": "PASAJERO JUANES",
+    "tipo": "trago",
+    "categoria": "la barra&vuelvo",
+    "ingredientes": [
+      "golden-spritz (vino espumoso",
+      "licor de saúco)",
+      "smirnoff 21",
+      "hielo de maracuyá",
+      "shot de maracuyá",
+      "borde explosivo."
+    ]
+  },
+  {
+    "id": 14,
+    "nombre": "TEIKIRISI",
+    "tipo": "trago",
+    "categoria": "la barra&vuelvo",
+    "ingredientes": [
+      "pink-spritz (vino espumoso",
+      "licor de hibisco)",
+      "gin tanqueray",
+      "jugo de limón endulzado",
+      "manzana verde."
+    ]
+  },
+  {
+    "id": 15,
+    "nombre": "MOSCOW&VUELVO",
+    "tipo": "trago",
+    "categoria": "la barra&vuelvo",
+    "ingredientes": [
+      "green-spritz (coctail en base de vodka",
+      "limón",
+      "jengibre)",
+      "infusión de té verde",
+      "pops",
+      "menta."
+    ]
+  },
+  {
+    "id": 16,
+    "nombre": "MANGO MANGO ÑAKA ÑAKA LERO LERO",
+    "tipo": "trago",
+    "categoria": "la barra&vuelvo",
+    "ingredientes": [
+      "jugo de mango-maracuyá",
+      "ron de coco",
+      "red bull yellow."
+    ]
+  },
+  {
+    "id": 17,
+    "nombre": "TROPICAL GIN",
+    "tipo": "trago",
+    "categoria": "la barra&vuelvo",
+    "ingredientes": [
+      "tanqueray",
+      "shot de maracuyá",
+      "red bull yellow edition"
+    ]
+  },
+  {
+    "id": 18,
+    "nombre": "GIN 97",
+    "tipo": "trago",
+    "categoria": "la barra&vuelvo",
+    "ingredientes": [
+      "tanqueray",
+      "shot de limón",
+      "red bull sugar free."
+    ]
+  },
+  {
+    "id": 19,
+    "nombre": "ENTREGA LAS JAGER",
+    "tipo": "trago",
+    "categoria": "la barra&vuelvo",
+    "ingredientes": [
+      "jägermeister",
+      "maracuyá",
+      "limón endulzado",
+      "soda."
+    ]
+  },
+  {
+    "id": 20,
+    "nombre": "LA COCOTERA",
+    "tipo": "trago",
+    "categoria": "la barra&vuelvo",
+    "ingredientes": [
+      "ron de coco",
+      "ron dorado",
+      "jugo de piña",
+      "naranja",
+      "acompañado de arándanos."
+    ]
+  },
+  {
+    "id": 21,
+    "nombre": "FRESCOLÍN",
+    "tipo": "trago",
+    "categoria": "la barra&vuelvo",
+    "ingredientes": [
+      "tanqueray",
+      "espumante",
+      "pulpa de frambuesa",
+      "triple sec",
+      "limón."
+    ]
+  },
+  {
+    "id": 22,
+    "nombre": "CHOCAIPIRIÑA",
+    "tipo": "trago",
+    "categoria": "la barra&vuelvo",
+    "ingredientes": [
+      "clásica caipiriña con hielo de frambuesa menta."
+    ]
+  },
+  {
+    "id": 23,
+    "nombre": "RUSTICA REX",
+    "tipo": "trago",
+    "categoria": "viaje&vuelvo",
+    "ingredientes": [
+      "jack daniels fire",
+      "triple sec",
+      "jugo de limón endulzado",
+      "th pomelo",
+      "pops",
+      "romero."
+    ]
+  },
+  {
+    "id": 24,
+    "nombre": "MOJITO CTM",
+    "tipo": "trago",
+    "categoria": "viaje&vuelvo",
+    "ingredientes": [
+      "alto del carmen triple destilado",
+      "pulpa de maracuyá",
+      "jugo de limón",
+      "goma",
+      "menta",
+      "soda."
+    ]
+  },
+  {
+    "id": 25,
+    "nombre": "ASTROBEE",
+    "tipo": "trago",
+    "categoria": "viaje&vuelvo",
+    "ingredientes": [
+      "jack daniels honey",
+      "espumante",
+      "hielo de maracuyá",
+      "shot de maracuyá",
+      "soda."
+    ]
+  },
+  {
+    "id": 26,
+    "nombre": "SUPERNOVA 1216",
+    "tipo": "trago",
+    "categoria": "viaje&vuelvo",
+    "ingredientes": [
+      "gin 1216 sandía o maracuyá",
+      "shot de frambuesa",
+      "limón endulzado",
+      "triple sec."
+    ]
+  },
+  {
+    "id": 27,
+    "nombre": "APOLO 11",
+    "tipo": "trago",
+    "categoria": "viaje&vuelvo",
+    "ingredientes": [
+      "jack daniels apple",
+      "honey",
+      "espumante",
+      "shot de limón",
+      "toques de goma",
+      "soda"
+    ]
+  },
+  {
+    "id": 28,
+    "nombre": "ESTAN QUERAY",
+    "tipo": "trago",
+    "categoria": "cualquier cosa menos un vaso",
+    "ingredientes": [
+      "gin tanqueray",
+      "pulpa de mango",
+      "pulpa maracuyá",
+      "red bull yellow."
+    ]
+  },
+  {
+    "id": 29,
+    "nombre": "MACHU ROCKET PICHU",
+    "tipo": "trago",
+    "categoria": "cualquier cosa menos un vaso",
+    "ingredientes": [
+      "alto del carmen 35°",
+      "ron de coco",
+      "pulpa de mango",
+      "hielo de maracuyá ."
+    ]
+  },
+  {
+    "id": 30,
+    "nombre": "ROSA MELA FRAMBUESA",
+    "tipo": "trago",
+    "categoria": "cualquier cosa menos un vaso",
+    "ingredientes": [
+      "tequila",
+      "pulpa de frambuesa",
+      "syrup de rosas",
+      "th pomelo",
+      "jugo de limón endulzado."
+    ]
+  },
+  {
+    "id": 31,
+    "nombre": "PINK COLA2",
+    "tipo": "trago",
+    "categoria": "cualquier cosa menos un vaso",
+    "ingredientes": [
+      "tequila de fresa",
+      "tequila",
+      "goma",
+      "crema de coco",
+      "crema de leche",
+      "pulpa de frambuesa."
+    ]
+  },
+  {
+    "id": 32,
+    "nombre": "ROSAS SPRITZ",
+    "tipo": "trago",
+    "categoria": "cualquier cosa menos un vaso",
+    "ingredientes": [
+      "syrup de rosas",
+      "espumante",
+      "agua con gas",
+      "hielo frambuesa-menta."
+    ]
+  },
+  {
+    "id": 33,
+    "nombre": "SANGRÍA B&V",
+    "tipo": "trago",
+    "categoria": "clásicos de hoy&siempre",
+    "ingredientes": [
+      "vino tinto",
+      "manzana",
+      "huesillo",
+      "naranja",
+      "triple sec",
+      "canela."
+    ]
+  },
+  {
+    "id": 34,
+    "nombre": "SANGRÍA CALAFATE",
+    "tipo": "trago",
+    "categoria": "clásicos de hoy&siempre",
+    "ingredientes": [
+      "vino tinto",
+      "manzana",
+      "huesillo",
+      "naranja",
+      "triple sec",
+      "canela",
+      "calafate."
+    ]
+  },
+  {
+    "id": 35,
+    "nombre": "MOSCOW MULE B&V",
+    "tipo": "trago",
+    "categoria": "clásicos de hoy&siempre",
+    "ingredientes": [
+      "smirnoff 21",
+      "jugo de limón",
+      "ginger beer."
+    ]
+  },
+  {
+    "id": 36,
+    "nombre": "LONDON MULE",
+    "tipo": "trago",
+    "categoria": "clásicos de hoy&siempre",
+    "ingredientes": [
+      "tanqueray",
+      "jugo de limón",
+      "ginger beer."
+    ]
+  },
+  {
+    "id": 37,
+    "nombre": "RUSO BLANCO B&V",
+    "tipo": "trago",
+    "categoria": "clásicos de hoy&siempre",
+    "ingredientes": [
+      "licor de café",
+      "smirnoff 21",
+      "crema de leche."
+    ]
+  },
+  {
+    "id": 38,
+    "nombre": "TOM COLLINS B&V",
+    "tipo": "trago",
+    "categoria": "clásicos de hoy&siempre",
+    "ingredientes": [
+      "tanqueray",
+      "jugo de limón endulzado",
+      "marrasquino",
+      "soda."
+    ]
+  },
+  {
+    "id": 39,
+    "nombre": "OLD FASHIONED",
+    "tipo": "trago",
+    "categoria": "clásicos de hoy&siempre",
+    "ingredientes": [
+      "jack daniels",
+      "amargo de angostura",
+      "goma",
+      "marrasquino."
+    ]
+  },
+  {
+    "id": 40,
+    "nombre": "LONG - ISLAND",
+    "tipo": "trago",
+    "categoria": "clásicos de hoy&siempre",
+    "ingredientes": [
+      "tanqueray",
+      "tequila",
+      "ron blanco con jugo de limón azucarado",
+      "toques de coca-cola."
+    ]
+  },
+  {
+    "id": 41,
+    "nombre": "NEGRONI CHILENO",
+    "tipo": "trago",
+    "categoria": "clásicos de hoy&siempre",
+    "ingredientes": [
+      "vermuth",
+      "campari",
+      "alto del carmen 40° etiqueta blanca."
+    ]
+  },
+  {
+    "id": 42,
+    "nombre": "SANGRÍA B&V / SANGRÍA CALAFATE",
+    "tipo": "trago",
+    "categoria": "una jarra&vuelvo",
+    "ingredientes": [
+      "vino tinto",
+      "manzana",
+      "huesillo",
+      "naranja",
+      "triple sec",
+      "canela."
+    ]
+  },
+  {
+    "id": 43,
+    "nombre": "MOJITO B&V",
+    "tipo": "trago",
+    "categoria": "una jarra&vuelvo",
+    "ingredientes": [
+      "ron blanco",
+      "limón de pica",
+      "menta",
+      "soda. clásico",
+      "vodka",
+      "espumante",
+      "frambuesa",
+      "mango",
+      "maracuyá",
+      "piña."
+    ]
+  },
+  {
+    "id": 44,
+    "nombre": "UN VIAJE POR EL SENA",
+    "tipo": "trago",
+    "categoria": "una jarra&vuelvo",
+    "ingredientes": [
+      "espumante",
+      "ginger ale",
+      "enfriado con hielo de frambuesa-menta",
+      "shot de frambuesa ."
+    ]
+  },
+  {
+    "id": 45,
+    "nombre": "SANGRÍA B&V",
+    "tipo": "trago",
+    "categoria": "un dispensador&vuelvo",
+    "ingredientes": [
+      "vino tinto",
+      "manzana",
+      "huesillo",
+      "naranja",
+      "triple sec",
+      "canela."
+    ]
+  },
+  {
+    "id": 46,
+    "nombre": "MOJITO B&V",
+    "tipo": "trago",
+    "categoria": "un dispensador&vuelvo",
+    "ingredientes": [
+      "ron blanco",
+      "limón de pica",
+      "menta",
+      "soda. clásico",
+      "vodka",
+      "espumante",
+      "frambuesa",
+      "mango",
+      "maracuyá",
+      "piña."
+    ]
+  },
+  {
+    "id": 47,
+    "nombre": "EXPLÓTAME EL CORAZÓN",
+    "tipo": "trago",
+    "categoria": "micheladas&vuelvo",
+    "ingredientes": [
+      "olvida la sal",
+      "endulza tu corazón",
+      "en base a petazetas."
+    ]
+  },
+  {
+    "id": 48,
+    "nombre": "CUANDO TÚ ME TOCA-TOCA",
+    "tipo": "trago",
+    "categoria": "micheladas&vuelvo",
+    "ingredientes": [
+      "en borde de sal",
+      "cerveza lager",
+      "jugo de limón",
+      "arandanos",
+      "jugo de frambuesa."
+    ]
+  },
+  {
+    "id": 49,
+    "nombre": "MICHELADA MARGARETH",
+    "tipo": "trago",
+    "categoria": "micheladas&vuelvo",
+    "ingredientes": [
+      "en borde de sal",
+      "azúcar",
+      "tequila reposado",
+      "cerveza lager",
+      "jugo de limón",
+      "toques de merquén",
+      "granadina."
+    ]
+  },
+  {
+    "id": 50,
+    "nombre": "GINCHELADA",
+    "tipo": "trago",
+    "categoria": "micheladas&vuelvo",
+    "ingredientes": [
+      "en borde de azúcar",
+      "gin",
+      "pepino",
+      "jugo de maracuyá",
+      "cerveza lager."
+    ]
+  },
+  {
+    "id": 51,
+    "nombre": "MICHELADA SUMMER",
+    "tipo": "trago",
+    "categoria": "micheladas&vuelvo",
+    "ingredientes": [
+      "en borde de sal",
+      "tequila reposado",
+      "jugo de limón",
+      "cerveza lager",
+      "mango",
+      "maracuyá."
+    ]
+  },
+  {
+    "id": 52,
+    "nombre": "CHILADA",
+    "tipo": "trago",
+    "categoria": "micheladas&vuelvo",
+    "ingredientes": [
+      "clásica michelada con ají en su interior."
+    ]
+  },
+  {
+    "id": 53,
+    "nombre": "LAGERMEISTER",
+    "tipo": "trago",
+    "categoria": "micheladas&vuelvo",
+    "ingredientes": [
+      "cerveza lager",
+      "jugo de limón",
+      "con toques de jägermeister",
+      "borde de petazeta"
+    ]
+  },
+  {
+    "id": 54,
+    "nombre": "BUCKET POR EL SENA",
+    "tipo": "trago",
+    "categoria": "bucket&vuelvo",
+    "ingredientes": [
+      "balde de 1.5 litros acompañado de espumante",
+      "hielo frambuesa menta",
+      "jugo de frambuesa",
+      "ginger ale."
+    ]
+  },
+  {
+    "id": 55,
+    "nombre": "BUCKET MOJITO CORONA",
+    "tipo": "trago",
+    "categoria": "bucket&vuelvo",
+    "ingredientes": [
+      "balde de 1.5 litros de mojito cubano clásico",
+      "acompañado de una corona invertida en su interior."
+    ]
+  },
+  {
+    "id": 56,
+    "nombre": "BUCKET MOJITO SABORES",
+    "tipo": "trago",
+    "categoria": "bucket&vuelvo",
+    "ingredientes": [
+      "balde de 1.5 litros de mojito tradicional o sabores."
+    ]
+  },
+  {
+    "id": 57,
+    "nombre": "MOJITO 1216",
+    "tipo": "trago",
+    "categoria": "mojito&vuelvo",
+    "ingredientes": [
+      "gin 1216 (sandia",
+      "maracuyá)",
+      "limón de pica",
+      "menta",
+      "soda."
+    ]
+  },
+  {
+    "id": 58,
+    "nombre": "MOJITO B&V",
+    "tipo": "trago",
+    "categoria": "mojito&vuelvo",
+    "ingredientes": [
+      "ron",
+      "limón de pica",
+      "menta",
+      "soda. clásico",
+      "vodka",
+      "espumante",
+      "frambuesa",
+      "mango",
+      "maracuyá",
+      "piña"
+    ]
+  },
+  {
+    "id": 59,
+    "nombre": "MOJITO RAMAZZOTTI",
+    "tipo": "trago",
+    "categoria": "mojito&vuelvo",
+    "ingredientes": [
+      "ramazzotti",
+      "limón de pica",
+      "menta",
+      "soda."
+    ]
+  },
+  {
+    "id": 60,
+    "nombre": "MOJITO JÄGERMEISTER",
+    "tipo": "trago",
+    "categoria": "mojito&vuelvo",
+    "ingredientes": [
+      "jägermeister",
+      "limón de pica",
+      "menta",
+      "soda."
+    ]
+  },
+  {
+    "id": 61,
+    "nombre": "MOJITO APPLE/HONEY",
+    "tipo": "trago",
+    "categoria": "mojito&vuelvo",
+    "ingredientes": [
+      "jack daniels manzana o miel",
+      "limón de pica",
+      "menta",
+      "soda."
+    ]
+  },
+  {
+    "id": 62,
+    "nombre": "MOJITO CALAFATE",
+    "tipo": "trago",
+    "categoria": "mojito&vuelvo",
+    "ingredientes": [
+      "ron",
+      "limón de pica",
+      "menta",
+      "calafate",
+      "soda."
+    ]
+  },
+  {
+    "id": 63,
+    "nombre": "BEBIDAS 350CC",
+    "tipo": "trago",
+    "categoria": "para los sanitos mocktails, tragos sin alcohol",
+    "ingredientes": [
+      "(coca-cola zero",
+      "coca-cola original",
+      "fanta",
+      "sprite",
+      "schweppes ginger ale)"
+    ]
+  },
+  {
+    "id": 64,
+    "nombre": "SIN VIAJE POR EL SENA",
+    "tipo": "trago",
+    "categoria": "para los sanitos mocktails, tragos sin alcohol",
+    "ingredientes": [
+      "espumante brut sin alcohol (0",
+      "4°) enfriado con nuestro hielo de frambuesa-menta con toques de ginger ale en nuestra copa b&v."
+    ]
+  },
+  {
+    "id": 65,
+    "nombre": "SIN BORGOÑA BERRIES",
+    "tipo": "trago",
+    "categoria": "para los sanitos mocktails, tragos sin alcohol",
+    "ingredientes": [
+      "vino tinto sin alcohol",
+      "pulpa de frambuesa",
+      "espumante sin alcohol",
+      "canela",
+      "goma."
+    ]
+  },
+  {
+    "id": 66,
+    "nombre": "NOT MOJITO ESPUMOSO",
+    "tipo": "trago",
+    "categoria": "para los sanitos mocktails, tragos sin alcohol",
+    "ingredientes": [
+      "espumante brut sin alcohol (0",
+      "4°)",
+      "jugo de limón de pica",
+      "menta",
+      "soda",
+      "goma."
+    ]
+  },
+  {
+    "id": 67,
+    "nombre": "SIN PASAJERO JUANES",
+    "tipo": "trago",
+    "categoria": "para los sanitos mocktails, tragos sin alcohol",
+    "ingredientes": [
+      "espumante brut sin alcohol (0",
+      "4°)",
+      "hielo de maracuyá",
+      "toque de red bull yellow",
+      "borde explosivo de peta-zeta."
+    ]
+  },
+  {
+    "id": 68,
+    "nombre": "NOT SANGRÍA BAR&VUELVO",
+    "tipo": "trago",
+    "categoria": "para los sanitos mocktails, tragos sin alcohol",
+    "ingredientes": [
+      "vino tinto sin alcohol",
+      "jugo de naranja",
+      "jugo de huesillo",
+      "manzana",
+      "canela",
+      "clavo de olor",
+      "huesillo."
+    ]
+  },
+  {
+    "id": 69,
+    "nombre": "NOT MANGO MANGO ÑAKA ÑAKA LERO LERO",
+    "tipo": "trago",
+    "categoria": "para los sanitos mocktails, tragos sin alcohol",
+    "ingredientes": [
+      "jugo de mango-maracuyá",
+      "crema de coco",
+      "red bull yellow."
+    ]
+  },
+  {
+    "id": 70,
+    "nombre": "NOT COLLINS",
+    "tipo": "trago",
+    "categoria": "para los sanitos mocktails, tragos sin alcohol",
+    "ingredientes": [
+      "jugo de limón endulzado",
+      "espumante",
+      "marrasquino",
+      "red bull yellow"
+    ]
+  },
+  {
+    "id": 71,
+    "nombre": "UN MOJOJOJO B&V",
+    "tipo": "trago",
+    "categoria": "para los sanitos mocktails, tragos sin alcohol",
+    "ingredientes": [
+      "ginger beer",
+      "jugo de limón",
+      "menta",
+      "goma",
+      "shot de maracuyá",
+      "hielo de maracuyá."
+    ]
+  },
+  {
+    "id": 72,
+    "nombre": "JOHNNIE LO TOMO",
+    "tipo": "trago",
+    "categoria": "blonde&vuelvo",
+    "ingredientes": [
+      "johnnie blonde",
+      "jugo de naranja natural",
+      "th pomelo",
+      "goma",
+      "rodaja de naranja"
+    ]
+  },
+  {
+    "id": 73,
+    "nombre": "MOJITO BLONDE",
+    "tipo": "trago",
+    "categoria": "blonde&vuelvo",
+    "ingredientes": [
+      "johnnie blonde",
+      "limón de pica",
+      "menta",
+      "soda."
+    ]
+  },
+  {
+    "id": 74,
+    "nombre": "PASSION BLONDE",
+    "tipo": "trago",
+    "categoria": "blonde&vuelvo",
+    "ingredientes": [
+      "johnnie blonde",
+      "shot de maracuyá",
+      "limón de pica",
+      "menta",
+      "soda."
+    ]
+  },
+  {
+    "id": 75,
+    "nombre": "JOHNNIE OXIDADO",
+    "tipo": "trago",
+    "categoria": "blonde&vuelvo",
+    "ingredientes": [
+      "johnnie blonde",
+      "drambuie",
+      "jugo de frambuesa",
+      "toque de jugo de limón",
+      "soda."
+    ]
+  },
+  {
+    "id": 76,
+    "nombre": "GIN 1216 PRIMER VIAJE",
+    "tipo": "trago",
+    "categoria": "gin&vuelvo",
+    "ingredientes": [
+      "sandía",
+      "maracuya"
+    ]
+  },
+  {
+    "id": 77,
+    "nombre": "TANQUERAY LONDON",
+    "tipo": "trago",
+    "categoria": "gin&vuelvo",
+    "ingredientes": [
+      "aromatizado con semillas de limón"
+    ]
+  },
+  {
+    "id": 78,
+    "nombre": "TANQUERAY SEVILLA",
+    "tipo": "trago",
+    "categoria": "gin&vuelvo",
+    "ingredientes": [
+      "aromatizado con semillas de mandarina"
+    ]
+  },
+  {
+    "id": 79,
+    "nombre": "TANQUERAY BOSSA NOVA",
+    "tipo": "trago",
+    "categoria": "gin&vuelvo",
+    "ingredientes": [
+      "aromatizado con semillas de maracuya"
+    ]
+  },
+  {
+    "id": 80,
+    "nombre": "TANQUERAY ROYALE",
+    "tipo": "trago",
+    "categoria": "gin&vuelvo",
+    "ingredientes": [
+      "aromatizado con semillas de berries"
+    ]
+  },
+  {
+    "id": 81,
+    "nombre": "TANQUERAY TEN",
+    "tipo": "trago",
+    "categoria": "gin&vuelvo",
+    "ingredientes": [
+      "aromatizado con semillas de limón",
+      "pepino"
+    ]
+  },
+  {
+    "id": 82,
+    "nombre": "COPA CARMEN FRIDA RSV",
+    "tipo": "trago",
+    "categoria": "un vinito&vuelvo",
+    "ingredientes": [
+      "(cab-carm-sb)"
+    ]
+  },
+  {
+    "id": 83,
+    "nombre": "CARMEN FRIDA RSV",
+    "tipo": "trago",
+    "categoria": "un vinito&vuelvo",
+    "ingredientes": [
+      "(cab-carm-mer-ch-sb-rose)"
+    ]
+  },
+  {
+    "id": 84,
+    "nombre": "MEDALLA REAL RSV",
+    "tipo": "trago",
+    "categoria": "un vinito&vuelvo",
+    "ingredientes": [
+      "(cab-carm-mer)"
+    ]
+  },
+  {
+    "id": 85,
+    "nombre": "PERRO RABIOSO",
+    "tipo": "trago",
+    "categoria": "un shot&vuelvo",
+    "ingredientes": [
+      "vodka",
+      "granadina",
+      "pimienta",
+      "gota tabasco."
+    ]
+  },
+  {
+    "id": 86,
+    "nombre": "EMPANADAS MIX&VUELVO (Elige 3 unidades)",
+    "tipo": "comida",
+    "categoria": "para comenzar el viaje",
+    "ingredientes": [
+      "pulled pork",
+      "ceviche",
+      "queso de camarón",
+      "queso champiñon",
+      "queso napolitano",
+      "tomate albahaca",
+      "acompañado de salsa ácida",
+      "salsa acevichada ."
+    ]
+  },
+  {
+    "id": 87,
+    "nombre": "CARPACCIO DE SALMÓN",
+    "tipo": "comida",
+    "categoria": "para comenzar el viaje",
+    "ingredientes": [
+      "carpaccio de salmón ahumado",
+      "palta",
+      "pimiento",
+      "cebollín",
+      "queso parmesano",
+      "acompañado con pan de la casa."
+    ]
+  },
+  {
+    "id": 88,
+    "nombre": "CEVICHE B&V",
+    "tipo": "comida",
+    "categoria": "para comenzar el viaje",
+    "ingredientes": [
+      "salmón",
+      "camarón",
+      "cebolla morada",
+      "cilantro."
+    ]
+  },
+  {
+    "id": 89,
+    "nombre": "CEVICHE VIAJERO",
+    "tipo": "comida",
+    "categoria": "para comenzar el viaje",
+    "ingredientes": [
+      "salmón",
+      "camarón",
+      "cebolla morada",
+      "calamares apanados."
+    ]
+  },
+  {
+    "id": 90,
+    "nombre": "CEVICHE VEGGIE",
+    "tipo": "comida",
+    "categoria": "para comenzar el viaje",
+    "ingredientes": [
+      "champiñones",
+      "aceitunas",
+      "semilla de zapallo",
+      "cebolla morada",
+      "mix de pimentones",
+      "palta",
+      "acompañado de pan de la casa."
+    ]
+  },
+  {
+    "id": 91,
+    "nombre": "TARTAR DE ATÚN",
+    "tipo": "comida",
+    "categoria": "para comenzar el viaje",
+    "ingredientes": [
+      "atún",
+      "palta",
+      "camarones apanados",
+      "cebollín",
+      "toque de salsa teriyaki."
+    ]
+  },
+  {
+    "id": 92,
+    "nombre": "ALTUNTUN TURUN TUN TUN",
+    "tipo": "comida",
+    "categoria": "para comenzar el viaje",
+    "ingredientes": [
+      "tartar de atún con palta",
+      "marinado con limón",
+      "salsa teriyaki",
+      "sobre croquetas de arroz rebosadas en panko",
+      "cebollín."
+    ]
+  },
+  {
+    "id": 93,
+    "nombre": "GUAKA GUAKA",
+    "tipo": "comida",
+    "categoria": "para comenzar el viaje",
+    "ingredientes": [
+      "tortillas de maíz fritas con queso cheddar acompañados de guacamole."
+    ]
+  },
+  {
+    "id": 94,
+    "nombre": "GUAKA GUAKA CABRÓN!!!",
+    "tipo": "comida",
+    "categoria": "para comenzar el viaje",
+    "ingredientes": [
+      "tortillas de maíz fritas con queso cheddar",
+      "bañados en nuestra salsa cabrona (carne molida",
+      "cebollín",
+      "reducción de vino tinto)",
+      "acompañados de guacamole"
+    ]
+  },
+  {
+    "id": 95,
+    "nombre": "PAPAS TODAS LAS CARNES",
+    "tipo": "comida",
+    "categoria": "unas papitas&vuelvo",
+    "ingredientes": [
+      "papas fritas cubiertas con lomo",
+      "pollo",
+      "solomillo de cerdo al ajillo con chorizo",
+      "queso fundido",
+      "toques de cebollin",
+      "pimiento."
+    ]
+  },
+  {
+    "id": 96,
+    "nombre": "PAPAS CALEUCHE",
+    "tipo": "comida",
+    "categoria": "unas papitas&vuelvo",
+    "ingredientes": [
+      "mix de papas fritas chilotas",
+      "bañadas en salmón",
+      "camarones salteados al ajillo",
+      "queso fundido",
+      "toques de cilantro."
+    ]
+  },
+  {
+    "id": 97,
+    "nombre": "TODAS LAS PAPAS LLEVAN A ROMA",
+    "tipo": "comida",
+    "categoria": "unas papitas&vuelvo",
+    "ingredientes": [
+      "papas fritas cubiertas con aceitunas negras",
+      "orégano",
+      "tomate",
+      "champiñones",
+      "jamón acaramelado",
+      "queso fundido."
+    ]
+  },
+  {
+    "id": 98,
+    "nombre": "PAPAPIG",
+    "tipo": "comida",
+    "categoria": "unas papitas&vuelvo",
+    "ingredientes": [
+      "papas fritas cubiertas de pulled pork",
+      "queso fundido",
+      "cheddar tocino crispy",
+      "ciboullete."
+    ]
+  },
+  {
+    "id": 99,
+    "nombre": "PAPAS DEL VALLE",
+    "tipo": "comida",
+    "categoria": "unas papitas&vuelvo",
+    "ingredientes": [
+      "papas fritas acompañadas con aceitunas",
+      "tomate",
+      "champiñones",
+      "cebolla",
+      "choclo",
+      "cilantro."
+    ]
+  },
+  {
+    "id": 100,
+    "nombre": "PAPAS CUSQUEÑAS",
+    "tipo": "comida",
+    "categoria": "unas papitas&vuelvo",
+    "ingredientes": [
+      "papas fritas cubierta con lomo",
+      "tomate",
+      "cebolla morada",
+      "queso fundido",
+      "cilantro."
+    ]
+  },
+  {
+    "id": 101,
+    "nombre": "PAPAS FUGADAS",
+    "tipo": "comida",
+    "categoria": "unas papitas&vuelvo",
+    "ingredientes": [
+      "papas fritas cubiertas de pollo",
+      "camarones al pilpil",
+      "cebollín",
+      "queso fundido"
+    ]
+  },
+  {
+    "id": 102,
+    "nombre": "PAPAS ACEVICHADAS",
+    "tipo": "comida",
+    "categoria": "unas papitas&vuelvo",
+    "ingredientes": [
+      "papas fritas cubiertas de ceviche de salmón",
+      "camarones apanados."
+    ]
+  },
+  {
+    "id": 103,
+    "nombre": "CHORRILLANA NOT",
+    "tipo": "comida",
+    "categoria": "unas papitas&vuelvo",
+    "ingredientes": [
+      "papas fritas cubiertas con seitán",
+      "cebolla caramelizada",
+      "champiñones",
+      "tomate",
+      "cilantro."
+    ]
+  },
+  {
+    "id": 104,
+    "nombre": "PAPAS CABRONAS",
+    "tipo": "comida",
+    "categoria": "unas papitas&vuelvo",
+    "ingredientes": [
+      "papas fritas cubiertas con queso fundido",
+      "tomate",
+      "guacamole",
+      "sour cream",
+      "bañados en nuestra salsa cabrona (carne molida",
+      "cebollín",
+      "reducción de vino tinto)"
+    ]
+  },
+  {
+    "id": 105,
+    "nombre": "CARNÍVORA B&V",
+    "tipo": "comida",
+    "categoria": "un tablón&vuelvo (1 metro)",
+    "ingredientes": [
+      "vacuno asado",
+      "solomillo",
+      "chorizo de cerdo picante",
+      "pollo a la mostaza miel. acompañado de papas fritas chilotas",
+      "salsa sour",
+      "salsa acevichada",
+      "pan de la casa."
+    ]
+  },
+  {
+    "id": 106,
+    "nombre": "VUELVO AL LITORAL",
+    "tipo": "comida",
+    "categoria": "un tablón&vuelvo (1 metro)",
+    "ingredientes": [
+      "camarones",
+      "calamares salteados al ajillo",
+      "brochetas de vacuno",
+      "pimentón",
+      "mix de empanadas (pulled pork queso",
+      "camarón queso",
+      "napolitana",
+      "quesadilla pollo cebollín. acompañado de salsa sour",
+      "salsa acevichada",
+      "pan de la casa."
+    ]
+  },
+  {
+    "id": 107,
+    "nombre": "TABLÓN BAR&VUELVO",
+    "tipo": "comida",
+    "categoria": "un tablón&vuelvo (1 metro)",
+    "ingredientes": [
+      "pollo a la mostaza miel salteado",
+      "brochetas de lomo",
+      "solomillo de cerdo. camarones apanados con salsa de mostaza miel. mix de papas fritas chilotas",
+      "tortillas de maíz fritas con salsa cheddar",
+      "salsa cabrona",
+      "salsa sour",
+      "salsa acevichadas",
+      "pan de la casa."
+    ]
+  },
+  {
+    "id": 108,
+    "nombre": "ATORTILLATE",
+    "tipo": "comida",
+    "categoria": "novedades&vuelvo",
+    "ingredientes": [
+      "(elige 1 proteina. cabrona",
+      "pollo",
+      "camarones",
+      "pulled pork o seitan) tortillas de maíz",
+      "lechuga",
+      "cebolla morada",
+      "cilantro",
+      "proteina",
+      "acompañado de salsa sour",
+      "guacamole."
+    ]
+  },
+  {
+    "id": 109,
+    "nombre": "QUESODORO",
+    "tipo": "comida",
+    "categoria": "novedades&vuelvo",
+    "ingredientes": [
+      "queso crema con cebollín",
+      "ciboullete",
+      "sobre salsa pomodoro caliente",
+      "acompañado con tortillas de maiz."
+    ]
+  },
+  {
+    "id": 110,
+    "nombre": "CARPACCIO VIAJERO",
+    "tipo": "comida",
+    "categoria": "novedades&vuelvo",
+    "ingredientes": [
+      "carpaccio de salmón ahumado",
+      "queso crema",
+      "camarones apanados",
+      "cebollín."
+    ]
+  },
+  {
+    "id": 111,
+    "nombre": "MUEVAME EL POLLO",
+    "tipo": "comida",
+    "categoria": "novedades&vuelvo",
+    "ingredientes": [
+      "pechugas de pollo apanadas en espejo de salsa de dulce de membrillo."
+    ]
+  },
+  {
+    "id": 112,
+    "nombre": "BROCHETA B&V",
+    "tipo": "comida",
+    "categoria": "novedades&vuelvo",
+    "ingredientes": [
+      "brocheta de lomo liso",
+      "pimentón en salsa de pomodoro",
+      "acompañado de papas chilotas."
+    ]
+  },
+  {
+    "id": 113,
+    "nombre": "CABREATE",
+    "tipo": "comida",
+    "categoria": "novedades&vuelvo",
+    "ingredientes": [
+      "bastones de queso cabra apanados",
+      "en salsa de dulce membrillo."
+    ]
+  },
+  {
+    "id": 114,
+    "nombre": "PAPASNATAS",
+    "tipo": "comida",
+    "categoria": "novedades&vuelvo",
+    "ingredientes": [
+      "papas fritas con queso fundido",
+      "salsa sour",
+      "ciboullete."
+    ]
+  },
+  {
+    "id": 115,
+    "nombre": "CHANCHILLANA",
+    "tipo": "comida",
+    "categoria": "chanchiplatos",
+    "ingredientes": [
+      "papas fritas cubiertas de lomo salteado",
+      "chorizo",
+      "cebolla caramelizada",
+      "huevo frito."
+    ]
+  },
+  {
+    "id": 116,
+    "nombre": "PAPAS LAS MAS CHANCHITAS",
+    "tipo": "comida",
+    "categoria": "chanchiplatos",
+    "ingredientes": [
+      "papas fritas cubiertas con lomo",
+      "pollo",
+      "solomillo de cerdo salteado al ajillo",
+      "chorizo",
+      "camarones",
+      "calamares salteados",
+      "queso fundido",
+      "cebollín",
+      "pimientos."
+    ]
+  },
+  {
+    "id": 117,
+    "nombre": "CHANCHI MIX",
+    "tipo": "comida",
+    "categoria": "chanchiplatos",
+    "ingredientes": [
+      "ceviche de salmón mini",
+      "quesadilla de champiñones",
+      "quesadilla napolitana",
+      "pollo a la mostaza miel",
+      "papas fritas chilotas acompañadas de mayo casera",
+      "pan de la casa",
+      "guacamole."
+    ]
+  },
+  {
+    "id": 118,
+    "nombre": "CHANCHI GOLOZ@S",
+    "tipo": "comida",
+    "categoria": "chanchiplatos",
+    "ingredientes": [
+      "brochetas de lomo",
+      "pimientos",
+      "empanadas de mechada",
+      "empanadas napolitanas",
+      "papas fritas chilotas con mayo casera",
+      "quesadillas"
+    ]
+  },
+  {
+    "id": 119,
+    "nombre": "CHANCHITO DE MAR",
+    "tipo": "comida",
+    "categoria": "chanchiplatos",
+    "ingredientes": [
+      "salmón salteado a las finas hierbas",
+      "quesasilla de camarón",
+      "calamares apanados",
+      "empanadas de camarón queso. acompañado de salsa apanados",
+      "empanadas de camarón queso. acompañado de salsa sour",
+      "salsa acevichada",
+      "pan de la casa"
+    ]
+  },
+  {
+    "id": 120,
+    "nombre": "CHANCHITO EN FUGA",
+    "tipo": "comida",
+    "categoria": "chanchiplatos",
+    "ingredientes": [
+      "papas fritas cubiertas de pulled pork",
+      "guacamole",
+      "queso fundido",
+      "lluvia de tortillas de maíz fritas."
+    ]
+  },
+  {
+    "id": 121,
+    "nombre": "QUIERO UN CHANCHI CHANWICH Pídelo así (sin reirte).",
+    "tipo": "comida",
+    "categoria": "chanchiplatos",
+    "ingredientes": [
+      "elige dosh chanwich de la carta",
+      "te regalamos las papitas queso ciboullete. (sólo si no te reíste)"
+    ]
+  },
+  {
+    "id": 122,
+    "nombre": "PAPANADO AMERICANO",
+    "tipo": "comida",
+    "categoria": "un sanguchito&vuelvo",
+    "ingredientes": [
+      "doble hamburguesa de vacuno",
+      "queso cheddar",
+      "tocino",
+      "mostaza miel",
+      "cebolla morada",
+      "salsa bbq",
+      "todo en un pan completamente apanado."
+    ]
+  },
+  {
+    "id": 123,
+    "nombre": "PAN SALTADO",
+    "tipo": "comida",
+    "categoria": "un sanguchito&vuelvo",
+    "ingredientes": [
+      "vacuno al más estilo peruano",
+      "cebolla morada",
+      "tomate",
+      "ají verde",
+      "soya",
+      "mayo casera."
+    ]
+  },
+  {
+    "id": 124,
+    "nombre": "ORALE WEY SIMPLE",
+    "tipo": "comida",
+    "categoria": "un sanguchito&vuelvo",
+    "ingredientes": [
+      "hamburguesa acompañada de guacamole",
+      "lechuga",
+      "cebolla morada",
+      "mayo casera",
+      "lluvia de tortillas de maíz fritas."
+    ]
+  },
+  {
+    "id": 125,
+    "nombre": "BACK BURGER SIMPLE",
+    "tipo": "comida",
+    "categoria": "un sanguchito&vuelvo",
+    "ingredientes": [
+      "hamburguesa con queso azul acompañada de cebolla caramelizada",
+      "lechuga",
+      "tomate",
+      "palta",
+      "cebolla morada",
+      "mayo casera."
+    ]
+  },
+  {
+    "id": 126,
+    "nombre": "POLLO VIAJERO",
+    "tipo": "comida",
+    "categoria": "un sanguchito&vuelvo",
+    "ingredientes": [
+      "pollo a la plancha",
+      "champiñones",
+      "pimientos salteados",
+      "palta",
+      "cebolla caramelizada",
+      "rúcula."
+    ]
+  },
+  {
+    "id": 127,
+    "nombre": "GRINGOU AMERICANOU",
+    "tipo": "comida",
+    "categoria": "un sanguchito&vuelvo",
+    "ingredientes": [
+      "doble hamburguesa 100% vacuno",
+      "queso cheddar",
+      "tocino",
+      "mostaza de miel",
+      "cebolla morada",
+      "salsa barbecue."
+    ]
+  },
+  {
+    "id": 128,
+    "nombre": "BAR&VEGAN",
+    "tipo": "comida",
+    "categoria": "un sanguchito&vuelvo",
+    "ingredientes": [
+      "en marraqueta crocante vegana",
+      "hamburguesa vegana",
+      "rúcula",
+      "pepinillos",
+      "tomate",
+      "mayo vegana",
+      "queso vegano… te quedó claro que es vegano?"
+    ]
+  },
+  {
+    "id": 129,
+    "nombre": "LA GRAN FUGA",
+    "tipo": "comida",
+    "categoria": "un sanguchito&vuelvo",
+    "ingredientes": [
+      "hamburguesa de vacuno",
+      "pulled pork",
+      "queso cheddar",
+      "guacamole",
+      "lechuga",
+      "lluvia de tortillas de maíz fritas."
+    ]
+  },
+  {
+    "id": 130,
+    "nombre": "BLUE&BACK",
+    "tipo": "comida",
+    "categoria": "un sanguchito&vuelvo",
+    "ingredientes": [
+      "carne mechada",
+      "queso azul fundido",
+      "palta",
+      "mayo casera."
+    ]
+  },
+  {
+    "id": 131,
+    "nombre": "SEI VEGAN",
+    "tipo": "comida",
+    "categoria": "un sanguchito&vuelvo",
+    "ingredientes": [
+      "churrasco de seitán con queso cheddar vegano",
+      "cebolla caramelizada",
+      "tomate",
+      "lechuga",
+      "pepinillos",
+      "en marraqueta."
+    ]
+  },
+  {
+    "id": 132,
+    "nombre": "ITALIANO BAR&VUELVO",
+    "tipo": "comida",
+    "categoria": "un sanguchito&vuelvo",
+    "ingredientes": [
+      "churrasco de lomo liso",
+      "acompañado de palta",
+      "tomate",
+      "mayo casera."
+    ]
+  },
+  {
+    "id": 133,
+    "nombre": "POLLONARDO DA VINCI",
+    "tipo": "comida",
+    "categoria": "un sanguchito&vuelvo",
+    "ingredientes": [
+      "pechuga de pollo",
+      "acompañado de palta",
+      "tomate",
+      "mayo casera",
+      "queso fundido."
+    ]
+  },
+  {
+    "id": 134,
+    "nombre": "BIG POLLO",
+    "tipo": "comida",
+    "categoria": "un sanguchito&vuelvo",
+    "ingredientes": [
+      "pollo apanado",
+      "queso cheddar laminado",
+      "pepinillo",
+      "cebolla morada",
+      "lechuga hidropónica",
+      "salsa byv",
+      "cebollín."
+    ]
+  },
+  {
+    "id": 135,
+    "nombre": "POLLO WEY",
+    "tipo": "comida",
+    "categoria": "un sanguchito&vuelvo",
+    "ingredientes": [
+      "pollo apanado",
+      "guacamole",
+      "salsa de aji jalapeño",
+      "salsa byv."
+    ]
+  },
+  {
+    "id": 136,
+    "nombre": "ENTERO POLLO",
+    "tipo": "comida",
+    "categoria": "un sanguchito&vuelvo",
+    "ingredientes": [
+      "pollo apando",
+      "queso cheddar laminado",
+      "cebolla acaramelizada",
+      "ketchup",
+      "mostaza miel",
+      "rúcula."
+    ]
+  },
+  {
+    "id": 137,
+    "nombre": "MERLÚZAME",
+    "tipo": "comida",
+    "categoria": "un sanguchito&vuelvo",
+    "ingredientes": [
+      "merluza apanada",
+      "tomate",
+      "cebolla morada",
+      "cilantro",
+      "mayo casera",
+      "salsa de aji jalapeño",
+      "acompañado de papas chilotas."
+    ]
+  }
+]
