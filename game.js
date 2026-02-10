@@ -1,72 +1,98 @@
+// ===============================
+// ESTADO DEL JUEGO
+// ===============================
 let productos = [];
 let puntaje = 0;
 let errores = 0;
 let productoCorrecto = null;
 
-// Cargar JSON
+// ===============================
+// UTILIDADES
+// ===============================
+function randomItem(array) {
+  return array[Math.floor(Math.random() * array.length)];
+}
+
+function mezclar(array) {
+  return array.sort(() => Math.random() - 0.5);
+}
+
+// ===============================
+// CARGAR JSON
+// ===============================
 fetch("/Juego_Bar-Vuelvo/data/productos_juego.json")
   .then(res => {
     if (!res.ok) throw new Error("No se pudo cargar el JSON");
     return res.json();
   })
- .then(data => {
-  productos = data.flat(); // 👈 ESTA ES LA CLAVE
-  console.log("Productos cargados:", productos.length);
-  nuevaPregunta();
-})
+  .then(data => {
+    // APLANAR ARRAY DE ARRAYS
+    productos = data.flat();
+
+    console.log("Productos cargados:", productos.length);
+
+    nuevaPregunta();
+  })
   .catch(err => {
-    console.error("ERROR REAL:", err);
+    console.error("Error cargando productos:", err);
     alert("Error cargando los productos");
   });
 
+// ===============================
+// JUEGO
+// ===============================
+function nuevaPregunta() {
+  if (errores >= 3) {
+    alert(`Juego terminado\nPuntaje final: ${puntaje}`);
+    location.reload();
+    return;
+  }
+
+  // Producto correcto
   productoCorrecto = randomItem(productos);
 
+  // Opciones falsas (misma categoría/tipo)
   let opciones = productos
     .filter(p =>
       p.tipo === productoCorrecto.tipo &&
       p.nombre !== productoCorrecto.nombre
-    )
-    .sort(() => Math.random() - 0.5)
-    .slice(0, 2);
+    );
 
+  opciones = mezclar(opciones).slice(0, 2);
   opciones.push(productoCorrecto);
-  opciones.sort(() => Math.random() - 0.5);
+  opciones = mezclar(opciones);
 
-  document.getElementById("ingredientes").innerHTML =
-    "<strong>Ingredientes:</strong><br><br>• " +
-    productoCorrecto.ingredientes.join("<br>• ");
+  // Mostrar ingredientes
+  document.getElementById("ingredientes").innerText =
+    productoCorrecto.ingredientes;
 
+  // Renderizar botones
   const contenedor = document.getElementById("opciones");
   contenedor.innerHTML = "";
 
-  opciones.forEach(op => {
+  opciones.forEach(opcion => {
     const btn = document.createElement("button");
-    btn.textContent = op.nombre;
-    btn.onclick = () => verificar(op);
+    btn.innerText = opcion.nombre;
+    btn.onclick = () => verificarRespuesta(opcion);
     contenedor.appendChild(btn);
   });
 
-  actualizarEstado();
+  // Actualizar marcador
+  actualizarMarcador();
 }
 
-function verificar(opcion) {
+function verificarRespuesta(opcion) {
   if (opcion.nombre === productoCorrecto.nombre) {
     puntaje++;
   } else {
     errores++;
   }
+
   nuevaPregunta();
 }
 
-function actualizarEstado() {
-  document.getElementById("estado").textContent =
-    `Puntaje: ${puntaje} | Errores: ${errores}/3`;
+function actualizarMarcador() {
+  document.getElementById("puntaje").innerText = puntaje;
+  document.getElementById("errores").innerText = errores;
 }
-
-function randomItem(arr) {
-  return arr[Math.floor(Math.random() * arr.length)];
-
-}
-
-
 
