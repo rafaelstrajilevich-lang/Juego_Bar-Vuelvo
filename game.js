@@ -9,11 +9,11 @@ fetch("/Juego_Bar-Vuelvo/data/productos_juego.json")
     if (!res.ok) throw new Error("No se pudo cargar el JSON");
     return res.json();
   })
-  .then(data => {
-    console.log("Productos cargados:", data.length);
-    productos = data;
-    nuevaPregunta();
-  })
+ .then(data => {
+  productos = data.flat(); // 👈 ESTA ES LA CLAVE
+  console.log("Productos cargados:", productos.length);
+  nuevaPregunta();
+})
   .catch(err => {
     console.error("ERROR REAL:", err);
     alert("Error cargando los productos");
@@ -67,5 +67,6 @@ function randomItem(arr) {
   return arr[Math.floor(Math.random() * arr.length)];
 
 }
+
 
 
