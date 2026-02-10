@@ -4,23 +4,20 @@ let errores = 0;
 let productoCorrecto = null;
 
 // Cargar JSON
-fetch("data/productos_juego.json")
-  .then(res => res.json())
+fetch("/Juego_Bar-Vuelvo/data/productos_juego.json")
+  .then(res => {
+    if (!res.ok) throw new Error("No se pudo cargar el JSON");
+    return res.json();
+  })
   .then(data => {
+    console.log("Productos cargados:", data.length);
     productos = data;
     nuevaPregunta();
   })
   .catch(err => {
+    console.error("ERROR REAL:", err);
     alert("Error cargando los productos");
-    console.error(err);
   });
-
-function nuevaPregunta() {
-  if (errores >= 3) {
-    alert(`Juego terminado\nPuntaje: ${puntaje}`);
-    location.reload();
-    return;
-  }
 
   productoCorrecto = randomItem(productos);
 
@@ -70,4 +67,5 @@ function randomItem(arr) {
   return arr[Math.floor(Math.random() * arr.length)];
 
 }
+
 
