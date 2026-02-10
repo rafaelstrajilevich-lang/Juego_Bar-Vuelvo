@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #111;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+#app {
+  width: 90%;
+  max-width: 420px;
+  text-align: center;
+}
+
+#ingredientes {
+  margin: 20px 0;
+}
+
+button {
+  width: 100%;
+  margin: 6px 0;
+  padding: 12px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+#estado {
+  margin-top: 15px;
+  font-weight: bold;
+}
