@@ -4,7 +4,7 @@ let errores = 0;
 let productoCorrecto = null;
 
 // Cargar JSON
-fetch("/data/productos_juego.json")
+fetch("data/productos_juego.json")
   .then(res => res.json())
   .then(data => {
     productos = data;
@@ -70,3 +70,4 @@ function randomItem(arr) {
   return arr[Math.floor(Math.random() * arr.length)];
 
 }
+
